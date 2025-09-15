@@ -1,0 +1,111 @@
+[main]
+completion/size = (300, 180)
+window/position = (10, 10)
+window/size = (2874, 2087)
+version = 86.0.0
+current_version = 6.0.7
+historylog_filename = C:\Users\tarek\.spyder-py3\history.log
+window/state = 000000ff00000004fd000000010000000000000b3a000007bbfc0100000003fc00000000000000c80000000000fffffffaffffffff0100000002fb0000003000500072006f006a006500630074004500780070006c006f007200650072005700690064006700650074005f006400770000000000ffffffff000000c800fffffffb00000030004f00750074006c0069006e0065004500780070006c006f007200650072005700690064006700650074005f006400770000000000ffffffff0000009e00fffffffb000000260045006400690074006f0072004d00610069006e005700690064006700650074005f006400770100000000000003ba0000011d00fffffffc000003c1000007790000012e00fffffffc0200000002fc00000053000003db000001690100001efa000000010200000009fb0000001a00480065006c0070005700690064006700650074005f006400770100000000ffffffff0000007b00fffffffb00000032005600610072006900610062006c0065004500780070006c006f007200650072005700690064006700650074005f006400770100000000ffffffff0000014800fffffffb0000002200440065006200750067006700650072005700690064006700650074005f006400770100000000ffffffff0000014a00fffffffb0000001c0050006c006f00740073005700690064006700650074005f006400770100000000ffffffff0000014800fffffffb0000001e005000790064006f006300420072006f0077007300650072005f006400770000000000ffffffff0000003100fffffffb00000022004500780070006c006f007200650072005700690064006700650074005f006400770100000000ffffffff0000007b00fffffffb0000002800460069006e00640049006e00460069006c00650073005700690064006700650074005f006400770000000000ffffffff0000016b00fffffffb0000002200500072006f00660069006c00650072005700690064006700650074005f006400770000000000ffffffff0000017400fffffffb0000001e00500079006c0069006e0074005700690064006700650074005f006400770000000000ffffffff0000017400fffffffc00000435000003d9000000a10100001efa000000000200000003fb0000002e00490050007900740068006f006e0043006f006e0073006f006c0065005700690064006700650074005f006400770100000000ffffffff0000008000fffffffb000000200048006900730074006f00720079005700690064006700650074005f006400770100000000ffffffff0000008200fffffffb000000200043006f006e0073006f006c0065005700690064006700650074005f006400770000000000ffffffff0000007b00ffffff00000000000007bb00000004000000040000000800000008fc0000000100000002000000050000001800660069006c0065005f0074006f006f006c0062006100720100000000ffffffff00000000000000000000001600720075006e005f0074006f006f006c0062006100720100000118ffffffff00000000000000000000001a00640065006200750067005f0074006f006f006c00620061007201000001f8ffffffff000000000000000000000018006d00610069006e005f0074006f006f006c00620061007201000002a0ffffffff0000000000000000000000320077006f0072006b0069006e0067005f006400690072006500630074006f00720079005f0074006f006f006c0062006100720100000348ffffffff0000000000000000
+
+[main_interpreter]
+custom_interpreters_list = ['C:\\Users\\tarek\\anaconda3\\python.exe', 'C:\\Users\\tarek\\anaconda3\\envs\\tutorial1\\python.exe']
+custom_interpreter = C:\Users\tarek\anaconda3\envs\tutorial1\python.exe
+last_envs = {'Conda: tutorial1': ('C:\\Users\\tarek\\anaconda3\\envs\\tutorial1\\python.exe', 'Python 3.13.5'), 'Custom: spyder-runtime': ('C:\\Users\\tarek\\AppData\\Local\\spyder-6\\envs\\spyder-runtime\\python.exe', 'Python 3.11.13'), 'Conda: base': ('C:\\Users\\tarek\\anaconda3\\python.exe', 'Python 3.13.5')}
+executable = C:\Users\tarek\anaconda3\envs\tutorial1\python.exe
+
+[onlinehelp]
+zoom_factor = 0.8
+
+[preferences]
+dialog_size = (900, 670)
+
+[project_explorer]
+max_recent_projects = 10
+recent_projects = []
+current_project_path = None
+scrollbar_position = (0, 0)
+expanded_state = None
+
+[pythonpath_manager]
+spyder_pythonpath = []
+paths_in_conf_files = False
+path = ()
+not_active_path = ()
+system_path = ()
+enable = True
+
+[quick_layouts]
+place_holder = 
+names = ['Spyder Default Layout', 'Rstudio layout', 'Matlab layout', 'Horizontal split', 'Vertical split']
+order = ['Spyder Default Layout', 'Rstudio layout', 'Matlab layout', 'Horizontal split', 'Vertical split']
+active = ['Spyder Default Layout', 'Rstudio layout', 'Matlab layout', 'Horizontal split', 'Vertical split']
+ui_names = ['Default layout', 'Rstudio layout', 'Matlab layout', 'Horizontal split', 'Vertical split']
+layout_0/size = (1260, 740)
+layout_0/is_maximized = True
+layout_0/is_fullscreen = False
+layout_0/position = (10, 10)
+layout_0/state = None
+layout_0/statusbar = False
+layout_1/size = (1260, 740)
+layout_1/is_maximized = True
+layout_1/is_fullscreen = False
+layout_1/position = (10, 10)
+layout_1/state = None
+layout_1/statusbar = False
+layout_2/size = (1260, 740)
+layout_2/is_maximized = True
+layout_2/is_fullscreen = False
+layout_2/position = (10, 10)
+layout_2/state = None
+layout_2/statusbar = False
+layout_3/size = (1260, 740)
+layout_3/is_maximized = True
+layout_3/is_fullscreen = False
+layout_3/position = (10, 10)
+layout_3/state = None
+layout_3/statusbar = False
+layout_4/size = (1260, 740)
+layout_4/is_maximized = True
+layout_4/is_fullscreen = False
+layout_4/position = (10, 10)
+layout_4/state = None
+layout_4/statusbar = False
+layout_default/size = (1260, 740)
+layout_default/is_maximized = True
+layout_default/is_fullscreen = False
+layout_default/position = (10, 10)
+layout_default/state = None
+layout_default/statusbar = False
+internal_dockable_plugins = ['internal_console', 'debugger', 'editor', 'explorer', 'find_in_files', 'help', 'historylog', 'ipython_console', 'onlinehelp', 'outline_explorer', 'plots', 'profiler', 'project_explorer', 'pylint', 'variable_explorer']
+last_visible_plugins = ['editor', 'ipython_console', 'variable_explorer']
+
+[pylint]
+history_filenames = []
+
+[editor]
+splitter_state = 000000ff00000001000000010000057301ffffffff010000000100
+recent_files = ['C:\\Users\\tarek\\.spyder-py3\\temp.py']
+filenames = ['C:\\Users\\tarek\\.spyder-py3\\temp.py']
+bookmarks = {}
+file_uuids = {'C:\\Users\\tarek\\.spyder-py3\\temp.py': '3fcdceaa-8f28-4cbc-9175-c06be9e870ac', 'C:\\Users\\tarek\\.spyder-py3\\tutorial.py': '8002b97d-687d-4f46-96a0-07986ed7bf20'}
+layout_settings = {'hexstate': '000000ff0000000100000001000003b400ffffffff010000000100', 'sizes': [948], 'splitsettings': [(False, 'C:\\Users\\tarek\\.spyder-py3\\temp.py', [7])]}
+
+[find_in_files]
+exclude_index = 0
+search_in_index = 0
+
+[run]
+parameters = {'debugger': {('py', 'file'): {'params': {'64f39f9a-8ffd-4ac5-bdbb-7c5b7ddb1e4b': {'uuid': '64f39f9a-8ffd-4ac5-bdbb-7c5b7ddb1e4b', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {'current': True, 'post_mortem': False, 'python_args_enabled': False, 'python_args': '', 'clear_namespace': False, 'console_namespace': False}}, 'file_uuid': None, 'default': True}}}, ('ipy', 'file'): {'params': {'d83decd3-4c45-4c21-a232-84a3b34bf87b': {'uuid': 'd83decd3-4c45-4c21-a232-84a3b34bf87b', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {'current': True, 'post_mortem': False, 'python_args_enabled': False, 'python_args': '', 'clear_namespace': False, 'console_namespace': False}}, 'file_uuid': None, 'default': True}}}, ('py', 'cell'): {'params': {'bdef620f-3edb-4f7e-b2ce-a962770ac465': {'uuid': 'bdef620f-3edb-4f7e-b2ce-a962770ac465', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {}}, 'file_uuid': None, 'default': True}}}, ('ipy', 'cell'): {'params': {'59c5e48a-7a0e-4a49-965b-36916acc9c78': {'uuid': '59c5e48a-7a0e-4a49-965b-36916acc9c78', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {}}, 'file_uuid': None, 'default': True}}}, ('py', 'selection'): {'params': {'fb9fd170-5557-4ec5-9b3c-916635291b03': {'uuid': 'fb9fd170-5557-4ec5-9b3c-916635291b03', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {}}, 'file_uuid': None, 'default': True}}}, ('ipy', 'selection'): {'params': {'2e0a68b5-a1da-4b73-ad01-af9de7a67618': {'uuid': '2e0a68b5-a1da-4b73-ad01-af9de7a67618', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {}}, 'file_uuid': None, 'default': True}}}}, 'external_terminal': {('py', 'file'): {'params': {'1ed4b972-1702-454b-a0d5-01ad2f4461ad': {'uuid': '1ed4b972-1702-454b-a0d5-01ad2f4461ad', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {'args_enabled': False, 'args': '', 'interact': True, 'python_args_enabled': False, 'python_args': ''}}, 'file_uuid': None, 'default': True}}}, ('bat', 'file'): {'params': {'3b5ae7f9-14a4-4652-a348-db55ede2c9be': {'uuid': '3b5ae7f9-14a4-4652-a348-db55ede2c9be', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {'interpreter': 'cmd.exe', 'interpreter_opts_enabled': True, 'interpreter_opts': '/K', 'script_opts_enabled': False, 'script_opts': '', 'close_after_exec': False}}, 'file_uuid': None, 'default': True}}}, ('bat', 'selection'): {'params': {'9313cd2e-a181-4da1-8ca9-1615c79a5c3e': {'uuid': '9313cd2e-a181-4da1-8ca9-1615c79a5c3e', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {'interpreter': 'cmd.exe', 'interpreter_opts_enabled': True, 'interpreter_opts': '/K', 'script_opts_enabled': False, 'script_opts': '', 'close_after_exec': False}}, 'file_uuid': None, 'default': True}}}, ('ps1', 'file'): {'params': {'76b25739-6672-4f12-99ad-584677d32824': {'uuid': '76b25739-6672-4f12-99ad-584677d32824', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {'interpreter': 'powershell.exe', 'interpreter_opts_enabled': False, 'interpreter_opts': '', 'script_opts_enabled': False, 'script_opts': '', 'close_after_exec': False}}, 'file_uuid': None, 'default': True}}}, ('ps1', 'selection'): {'params': {'2ecc6f64-0b7c-4ea1-b72a-c50a1577c894': {'uuid': '2ecc6f64-0b7c-4ea1-b72a-c50a1577c894', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {'interpreter': 'powershell.exe', 'interpreter_opts_enabled': False, 'interpreter_opts': '', 'script_opts_enabled': False, 'script_opts': '', 'close_after_exec': False}}, 'file_uuid': None, 'default': True}}}}, 'profiler': {('py', 'file'): {'params': {'908fe989-7ccd-4e28-accd-a5a996122e3b': {'uuid': '908fe989-7ccd-4e28-accd-a5a996122e3b', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {'args_enabled': False, 'args': ''}}, 'file_uuid': None, 'default': True}}}, ('ipy', 'file'): {'params': {'80e6852b-9e63-4cda-b8b3-e4cdb7f4c315': {'uuid': '80e6852b-9e63-4cda-b8b3-e4cdb7f4c315', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {'args_enabled': False, 'args': ''}}, 'file_uuid': None, 'default': True}}}}, 'pylint': {('py', 'file'): {'params': {'0c3eaab6-e958-4fef-a077-17a13f0814f8': {'uuid': '0c3eaab6-e958-4fef-a077-17a13f0814f8', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {}}, 'file_uuid': None, 'default': True}}}}, 'ipython_console': {('py', 'file'): {'params': {'09819c98-0f56-4735-86e8-44df12093fa7': {'uuid': '09819c98-0f56-4735-86e8-44df12093fa7', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {'current': True, 'post_mortem': False, 'python_args_enabled': False, 'python_args': '', 'clear_namespace': False, 'console_namespace': False}}, 'file_uuid': None, 'default': True}}}, ('ipy', 'file'): {'params': {'078ac40a-99c4-41dd-b43a-4ab66c7bbaa3': {'uuid': '078ac40a-99c4-41dd-b43a-4ab66c7bbaa3', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {'current': True, 'post_mortem': False, 'python_args_enabled': False, 'python_args': '', 'clear_namespace': False, 'console_namespace': False}}, 'file_uuid': None, 'default': True}}}, ('py', 'cell'): {'params': {'a17f50a0-9fde-4d9a-9ea8-0674e103a5bd': {'uuid': 'a17f50a0-9fde-4d9a-9ea8-0674e103a5bd', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {}}, 'file_uuid': None, 'default': True}}}, ('ipy', 'cell'): {'params': {'e83d279f-de40-4c5a-acb4-099db41e2c98': {'uuid': 'e83d279f-de40-4c5a-acb4-099db41e2c98', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {}}, 'file_uuid': None, 'default': True}}}, ('py', 'selection'): {'params': {'ef71d990-015c-405b-828b-11477c26fd6a': {'uuid': 'ef71d990-015c-405b-828b-11477c26fd6a', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {}}, 'file_uuid': None, 'default': True}}}, ('ipy', 'selection'): {'params': {'d2abe8c8-e1a1-42d3-94bd-194f284eb16e': {'uuid': 'd2abe8c8-e1a1-42d3-94bd-194f284eb16e', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {}}, 'file_uuid': None, 'default': True}}}, ('pyx', 'file'): {'params': {'a073553f-31c8-4533-bb99-d0ec8ad1886e': {'uuid': 'a073553f-31c8-4533-bb99-d0ec8ad1886e', 'name': 'Default', 'params': {'working_dir': {'source': 0, 'path': None}, 'executor_params': {'current': True, 'post_mortem': False, 'python_args_enabled': False, 'python_args': '', 'clear_namespace': False, 'console_namespace': False}}, 'file_uuid': None, 'default': True}}}}}
+last_used_parameters_per_executor = {'3fcdceaa-8f28-4cbc-9175-c06be9e870ac': [{'executor': 'ipython_console', 'selected': '09819c98-0f56-4735-86e8-44df12093fa7'}]}
+last_configured_executor = {}
+
+[outline_explorer]
+scrollbar_position = None
+
+[explorer]
+file_associations = {}
+
+[workingdir]
+startup/fixed_directory = C:\Users\tarek
+console/fixed_directory = C:\Users\tarek
+

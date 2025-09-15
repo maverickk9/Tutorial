@@ -1,35 +1,16 @@
 import numpy as np
 import pandas as pd
 
-dogs = np.array(["Pup", "Jak", "Lou"])
 
-for dog in dogs:
-    print(dog)
-    
-    
-digits = np.array([1, 2, 3, 4, 5])
-for digit in digits:
-    print(digit)
-    
-# Operations
+ # URL to the CSV file on the UCI Machine Learning Repository
+url = "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"
 
-total = np.sum(digits)
-average = np.mean(digits)
+# Column names for the Iris dataset (you can adjust them as needed)
+column_names = ["sepal_length", "sepal_width", "petal_length", "petal_width", "class"]
 
-print("Sum:", total)
-print("average:", average)
+# Read the CSV file into a DataFrame
+df = pd.read_csv(url, names=column_names)
 
-
-reshaped_dig = digits.reshape(5,1)
-print("Original:", digits)
-print("Reshaped:", reshaped_dig)
-
-data = data = {'Name': ['Alice', 'Bob', 'Charlie'],
-        'Age': [25, 30, 35]}
-
-print(data)
-
-df = pd.DataFrame(data)
+# Display the first few rows of the DataFrame
 print(df.head())
-
 print(df.info())
